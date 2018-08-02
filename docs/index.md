@@ -1,4 +1,4 @@
-Hello World 27
+Hello World 29
 
 
 * auto-gen TOC:
@@ -17,3 +17,9 @@ stuff2
 ### Home3
 para3
 stuff3
+
+---
+
+File2.md
+* auto-gen TOC:
+{:toc File2.md}
